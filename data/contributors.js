@@ -1606,7 +1606,8 @@ const contributors = [
     linkedin: "https://www.linkedin.com/in/subin-duresh-73384212b/",
     github: "https://github.com/SubinDuresh",
     gender: "Male",
-  }
+  },
+  {
     name: "Tanay Patil",
     branch: "CSE",
     college: "Acropolis Institute of Technology and Research, Indore",
@@ -1615,6 +1616,15 @@ const contributors = [
     github: "https://github.com/patil-tanay",
     gender: "Male",
    },
+   {
+    name: "Birendra Bikram",
+    branch: "Bsc(Hons) Computing",
+    college: "Islington",
+    year: 2025,
+    linkedin: "https://www.linkedin.com/in/Birendra-Bikram",
+    github: "https://github.com/Biren-dra",
+    gender: "Male",
+   }
 ];
 
 
